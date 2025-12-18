@@ -1,5 +1,5 @@
 import TaskTabs from "@/components/ui/task-tabs";
-import Task5 from "@/components/ui/task-5/Task5";
+import Task5 from "@/components/ui/task-5/search-lab5";
 
 export default function Task5Page() {
   return (

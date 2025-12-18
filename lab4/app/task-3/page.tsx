@@ -1,5 +1,5 @@
 import TaskTabs from "@/components/ui/task-tabs";
-import Task3 from "@/components/ui/task-3/Task3";
+import Task3 from "@/components/ui/task-3/hover-lab5";
 
 export default function Task3Page() {
   return (

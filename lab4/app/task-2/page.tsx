@@ -1,5 +1,5 @@
 import TaskTabs from "@/components/ui/task-tabs";
-import Task2 from "@/components/ui/task-2/Task2";
+import Task2 from "@/components/ui/task-2/input-lab5";
 
 export default function Task2Page() {
   return (
